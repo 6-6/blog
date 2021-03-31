@@ -1,38 +1,15 @@
 ---
 title: Hello World
+date: 2021-03-26 13:21:52
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+每个编程语言的教科书，第一个示例总是从'Hello World'开始的。
 
-## Quick Start
+对于这个博客也算是第一篇文章，类似序言。
 
-### Create a new post
+在2016年初始开始搭建了第一个基于hexo的静态博客[apagoda.github.io](http://apagoda.github.io/)。还记得看着浏览器运行页面出来的时候，喜悦之情溢于言表。
 
-``` bash
-$ hexo new "My New Post"
-```
+这一晃多年过去，还是会记录，但很少发到博客或是社交平台上。这段时间在掘金平台看到不少的好文章，感谢这些开源精神的作者。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+之前尝试过国内的coding.io（现在被腾讯云收购），Cloud Studio很好用，但是pages很不稳定。目前此博客转到了腾讯云静态托管，访问速度还是不错，部署也很方便。
 
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+博客域名还未备案，初期还是梳理文章，逐步再慢慢完善。

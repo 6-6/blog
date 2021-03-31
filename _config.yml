@@ -3,18 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: 野芋生长
-description: ''
+title: blog
+subtitle: 野芋岛
+description: 'blog'
 keywords:
-nick: Taros
-author: Li Jing
+author: 孤帆船长
 language: cn
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://vuepress-7g6mefe5ad729c51-1258812673.tcloudbaseapp.com
 permalink: /post/:title.html
 permalink_defaults:
 pretty_urls:
