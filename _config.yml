@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: blog
-subtitle: 野芋岛
-description: 'blog'
-keywords:
-author: 孤帆船长
+title: 学习小天地
+subtitle: Vie's blog
+description: C'est la vie
+keywords: blog
+author: Vie
 language: cn
 timezone: ''
 
@@ -44,7 +44,7 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
