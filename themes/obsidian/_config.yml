@@ -189,7 +189,7 @@ footer_html: '
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?your_code";
+  hm.src = "https://hm.baidu.com/hm.js?d9339a77fa026710614eefe9ab302fc1";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
