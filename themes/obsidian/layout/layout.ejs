@@ -30,6 +30,8 @@
             <%- link_to("https://github.com/TriDiamond/hexo-theme-obsidian", "Obsidian", {external: true})%>
         </span>
         <small><%- link_to("https://github.com/TriDiamond/hexo-theme-obsidian/blob/master/CHANGELOG.md", 'v'+theme.version, {external: true})%></small>
+        <span>&nbsp;|&nbsp;</span>
+        <span><% if(theme.beian) { %> <%= theme.beianloc %> <%= theme.beianid %><% } %></span>
     </p>
 </footer>
 <%- partial('_partial/mathjax', null, {cache: true}) %>

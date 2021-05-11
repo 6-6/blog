@@ -49,16 +49,17 @@ menu:
 # Page custom titles
 page_titles:
   about: '关于我'
-  categories: -CSS -JavaScript
-
+  categories: '分类'
   tags: '标签'
   archives: '时间轴'
 
 # Social media links
 socials:
-  github: 'https://github.com/TriDiamond'
+  github: 'https://github.com/6-6'
   twitter: 'https://twitter.com/TriDiamond6'
   stackoverflow: 'https://stackoverflow.com/users/7602324/tridiamond?tab=profile'
+  zhihu: 'https://www.zhihu.com/people/3xtd'
+  juejin: 'https://juejin.cn/user/377887729139047'
 
 # Enable table of content
 TOC: true
@@ -70,7 +71,7 @@ welcome_cover: /img/cover.jpg
 cover: /img/welcome-cover.jpg
 
 # Avatar
-avatar: https://res.cloudinary.com/tridiamond/image/upload/v1573019751/TriDiamond_logo_ui_xeublz.jpg
+avatar: https://7675-vuepress-7g6mefe5ad729c51-1258812673.tcb.qcloud.la/Image/icons/Ranked_Medal_Frame_Legend.png?sign=8270bd827cb0c0f028ae3d799a0ff8fd&t=1620628805
 
 # Disable default scrollbar
 scrollbar: true
@@ -199,3 +200,8 @@ var _hmt = _hmt || [];
 # Available values: true | false
 post_navigation: true
 
+beian: true
+# 备案地区，例子：粤ICP备
+beianloc: '琼ICP备'
+# 备案号，例子：2021022134号
+beianid: '2021001759号'
